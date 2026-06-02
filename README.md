@@ -1,2 +1,2 @@
 # orbital-transfer-visualization
-Astrodynamics simulation of an Earth-to-Mars Hohmann transfer trajectory using real solar system parameters, numerical integration, delta-v calculations, and animated orbital visualization.
+This project simulates a Hohmann transfer from Earth's orbit to Mars' orbit around the Sun. The simulation computes the required transfer burns, propagates planetary and spacecraft motion under solar gravity, and visualizes the resulting trajectory through an animated Python simulation. The model uses real astronomical constants and demonstrates fundamental concepts in orbital mechanics and interplanetary mission design.
